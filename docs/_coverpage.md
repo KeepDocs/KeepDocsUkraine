@@ -1,26 +1,9 @@
-<!-- _coverpage.md -->
-<!--[a ver](assets/images/keepdocgraf.jpg)>
-<!-- [logo](https://miro.medium.com/max/1400/1*a1rZEF1awSz0wsKdL9SuGw.jpeg)-->
-![logok](https://user-images.githubusercontent.com/68087535/91909888-67d3e680-ec84-11ea-8e43-203fced81216.png)
-# Keep Network
+![Keep_Brand_Web-portada](assets/images/KeepDocsMain.png)
 
-> Community Curated Documentation
+> Resources for Stakers & Node Operators <!-- TODO: Replace with your description -->
 
-- Staking in Keep Network
-- Explanation, Roi, Comparisons & Options
-- Rewards, Economics, Slashing & Liquidation
-- Node Deployment, Operation, Troubleshooting & Risk Mitigation
+- [:uk:](https://keepdocs.github.io/) / [:ru:](https://keepdocs.github.io/KeepDocsRussia/) / [:it:](https://keepdocs.github.io/KeepDocsItalia/) / [:de:](https://keepdocs.github.io/KeepDocsGerman/) / [:fr:](https://keepdocs.github.io/KeepDocsFrance/) / [:indonesia:](https://keepdocs.github.io/KeepDocsIndonesia/) / [:tr:](https://keepdocs.github.io/KeepDocsTurkish/) / [:ukraine:](https://keepdocs.github.io/KeepDocsUkraine/)
+- Scroll down to get started
 
 
-[GitHub](https://github.com/Estebank97/Keep-Node-Docs/)
-[Get Started](basics/start.md)  
-
-[:uk:](https://estebank97.github.io/Keep-Node-Docs/#/)
-[:ru:](https://tony-sh.github.io/Keep-Node-Docs-Russia/#/)
-[:it:](https://tony-sh.github.io/Keep-Node-Docs-Italian/#/)
-[:de:](https://tony-sh.github.io/Keep-Node-Docs-German/#/)
-[:fr:](https://tony-sh.github.io/Keep-Node-Docs-French/#/)
-[:cn:](https://tony-sh.github.io/Keep-Node-Docs-Chinese/#/)
-[:indonesia:](https://tony-sh.github.io/Keep-Node-Docs-Indonesia/#/)
-[:tr:](https://tony-sh.github.io/Keep-Node-Docs-Turkish/#/)
-[:ukraine:](https://tony-sh.github.io/Keep-Node-Docs-Ukraine/#/)
+![Back](assets/images/KeepDocsSide.jpg)
