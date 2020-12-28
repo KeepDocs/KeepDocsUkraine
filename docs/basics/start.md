@@ -23,7 +23,7 @@ KEEP - основний токен мережі Keep Network. Всі додат�
 ?> Checkout latest version of this document in english [here](https://keepdocs.github.io/#/).
 
 ---
-`Джерело з офіційної документації Keep Team, відредагований і доповнений спільнотою. '[Джерело] (https://keep-network.gitbook.io/staking-documentation/) `
+`Джерело з офіційної документації Keep Team, відредагований і доповнений спільнотою. `[Джерело] (https://keep-network.gitbook.io/staking-documentation/)
 
 `Автори: Ramaruro, EstebanK`
 `Переклад: ingag`
